@@ -1,0 +1,23 @@
+p {
+  margin: 0;
+  height: 30px;
+  font-size: larger;
+  padding-right: 10px;
+  text-align: right;
+  color: white;
+  background-color: black;
+}
+
+button {
+  font-size: large;
+}
+
+.button-1 {
+  width: 90px;
+  height: 30px;
+}
+
+.button-2 {
+  width: 185px;
+  height: 30px;
+}
